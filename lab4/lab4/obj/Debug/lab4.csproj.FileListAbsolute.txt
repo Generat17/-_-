@@ -1,0 +1,15 @@
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\MainWindow.g.cs
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\App.g.cs
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4_MarkupCompile.cache
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4_MarkupCompile.lref
+C:\Users\Generat\Desktop\C#\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Generat\Desktop\C#\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Generat\Desktop\C#\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\MainWindow.baml
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.g.resources
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Generat\Desktop\C#\lab4\lab4\obj\Debug\lab4.pdb
